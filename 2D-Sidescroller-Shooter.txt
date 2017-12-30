@@ -1,0 +1,23 @@
+Core Mechanics:
+*Timesaving "cancels" which reduce lag on jumps, landing, turning, etc. while shooting
+**Think Falco lasers in Melee: jump-cancelling to have no lag on landing
+**Cancels maybe include crouch-cancels, jump-cancels, turnaround-cancels, shoot-cancels, swap-cancels, etc.
+
+*Guns/whatever will shoot have different types with different lag stages. You can do different techniques to cancel the lag, ensuring a bullet storm is produced
+**Autos have no lag in shooting, but lag in reloading
+**Shotguns have lag in shooting, but less in reloading
+**Snipers have both, but are high-power, explosive, etc.
+**Others
+
+
+Other Gameplay:
+*
+
+Story:
+*
+
+Art:
+*
+
+Sound:
+*
