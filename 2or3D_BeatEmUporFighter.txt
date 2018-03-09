@@ -1,8 +1,9 @@
 Core Mechanics:
-* Faster speed == higher damage (boost damage by making fists move faster, for example)
+* Faster speed == higher damage (boost damage by making fists/self move faster, for example)
+* Some attacks make you move faster, some slow you down after completed
 
 Other Gameplay:
-* 
+* Customize character to balance speed
 
 Story:
 *n/a?
