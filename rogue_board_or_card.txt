@@ -1,0 +1,15 @@
+* Rogue Board: Rogue-like with board-game piece movement
+** Switches between chess, checkers, Monopoly, Candyland, Chutes & Ladders, mahjong, possibly fused with the below
+** Or just a randomly generated board of a pre-defined game
+** Local single/multiplayer, online (?)
+
+* Rogue Card: Rogue-like card game
+** Local single/multiplayer, online (?)
+** Create some way for the player not to lose to RNG
+** Cards have a random stat range
+*** "Pack opening" randomly generates cards with randomized ranges and names, as well as effs
+
+Rogue Board
+Smorghus Board
+Crazy Board
+...
